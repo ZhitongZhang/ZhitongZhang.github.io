@@ -1,0 +1,72 @@
+body {
+  background: black;
+  letter-spacing: 2px;
+  font-family: "Lato", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  padding: 0;
+  margin: 8px;
+  height: 100%;
+  width: 100%;
+  line-height: 1.5;
+  color: white;
+}
+#Zhitong{
+  width: 640px;
+  height: 480px;
+  border-radius: 50%;
+  background-size: cover;
+}
+.btn{
+  display: block;
+  float: left;
+  width: 70px;
+  height: 40px;
+  background-color:#999;
+  border-radius: 50px;
+  text-align: center;
+  line-height: 40px;
+  position: relative;
+  text-decoration: none;
+  margin: 10px;
+  margin-top: -30px;
+  overflow: hidden;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-color: #222;
+}
+header {
+  background-color: #AADFEF;
+  color: #fff;
+  text-align: center;
+  padding: 5% 0 1%;
+    font-family: 'Lato', arial, sans-serif;
+  font-size: 16px;
+}
+header h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 4em;
+  font-weight: 400;
+  letter-spacing: 3px;
+  line-height: 0.5;
+  padding-top: 3%;
+  font-family: "Montserrat", sans-serif;
+}
+
+header h1 span {
+  text-transform: uppercase;
+  letter-spacing: 7px;
+  font-size: 25px;
+  line-height: 1;
+}
+
+header p {
+  padding-top: 30px;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
