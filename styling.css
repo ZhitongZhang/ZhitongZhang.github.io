@@ -168,7 +168,7 @@ Background is in base64 format so to make code more readable I just moved it her
 }
 
 .wrap{
-  margin: 49px auto;
+  margin: 50px auto;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
